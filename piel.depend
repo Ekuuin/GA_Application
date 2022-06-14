@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1654464025 source:c:\users\edwin\documents\piel\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+
+1654838904 source:c:\users\edwin\onedrive\piel\main.cpp
+	<string>
+	<iostream>
+	<fstream>
+	<openGA.hpp>
+	<cmath>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<conio.h>
+
